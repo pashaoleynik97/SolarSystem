@@ -1,0 +1,276 @@
+
+main.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo
+  rotate: false
+  xy: 2, 8
+  size: 2000, 2000
+  orig: 2000, 2000
+  offset: 0, 0
+  index: -1
+mask_green
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mask_red
+  rotate: false
+  xy: 2004, 2007
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mask_yellow
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+main2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scale
+  rotate: false
+  xy: 2, 2
+  size: 2000, 2000
+  orig: 2000, 2000
+  offset: 0, 0
+  index: -1
+
+main3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asteroid
+  rotate: false
+  xy: 2, 110
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 735
+  size: 2035, 1272
+  orig: 2035, 1272
+  offset: 0, 0
+  index: -1
+btn_bg_a
+  rotate: false
+  xy: 2, 2
+  size: 110, 52
+  orig: 110, 52
+  offset: 0, 0
+  index: -1
+btn_bg_b
+  rotate: false
+  xy: 232, 56
+  size: 110, 52
+  orig: 110, 52
+  offset: 0, 0
+  index: -1
+btn_green_mask
+  rotate: false
+  xy: 1012, 133
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+btn_no_mask
+  rotate: false
+  xy: 1662, 277
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+btn_red_mask
+  rotate: false
+  xy: 114, 2
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+btn_satellites
+  rotate: false
+  xy: 2, 56
+  size: 228, 52
+  orig: 228, 52
+  offset: 0, 0
+  index: -1
+btn_yellow_mask
+  rotate: false
+  xy: 344, 56
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+earth
+  rotate: false
+  xy: 1260, 533
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fwd
+  rotate: false
+  xy: 1866, 605
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fwd_p
+  rotate: false
+  xy: 1866, 475
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jupiter
+  rotate: false
+  xy: 204, 110
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+mars
+  rotate: false
+  xy: 1260, 331
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+mercury
+  rotate: false
+  xy: 1462, 533
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 1462, 331
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+neptune
+  rotate: false
+  xy: 1664, 533
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+orbit_big
+  rotate: false
+  xy: 843, 317
+  size: 415, 416
+  orig: 415, 416
+  offset: 0, 0
+  index: -1
+orbit_small
+  rotate: false
+  xy: 423, 315
+  size: 418, 418
+  orig: 418, 418
+  offset: 0, 0
+  index: -1
+orbit_super_small
+  rotate: false
+  xy: 2, 312
+  size: 419, 421
+  orig: 419, 421
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1866, 345
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause_p
+  rotate: false
+  xy: 1012, 187
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1142, 187
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+play_p
+  rotate: false
+  xy: 1272, 201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rew
+  rotate: false
+  xy: 1402, 201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rew_p
+  rotate: false
+  xy: 1532, 201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+saturn
+  rotate: false
+  xy: 1664, 331
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 406, 110
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+uranus
+  rotate: false
+  xy: 608, 113
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+venus
+  rotate: false
+  xy: 810, 113
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+main4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_b
+  rotate: false
+  xy: 2, 2
+  size: 1610, 985
+  orig: 1610, 985
+  offset: 0, 0
+  index: -1
