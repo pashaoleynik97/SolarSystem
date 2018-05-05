@@ -3,6 +3,6 @@ libGDX based solar system graphical model.
 
 You can run it on Desktop.
 
-![Screenshot](https://imgur.com/a/ZbgbnmA)
+![Screenshot](https://i.imgur.com/qSMTFjp.jpg)
 
 You must set working directory to \core\assets. 
